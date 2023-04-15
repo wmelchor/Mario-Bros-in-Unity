@@ -5,4 +5,5 @@ Controls are arrow keys to move, space bar to jump, 'X' to run, and 'T' to shoot
 Incomplete aspects include: No music or sound effects, fireball physics are not quite the same
 as the original, flagpole animation is incomplete, bricks do not break as big Mario, enemies are
 not defeated by jumping and hitting the brick block that they are on, the star animation is not
-the same, and there is no UI yet. But these fixes are coming as I am still working on this.
+the same, nothing pauses when Mario gets a power up, and there is no UI yet. 
+But these fixes are coming as I am still working on this!
